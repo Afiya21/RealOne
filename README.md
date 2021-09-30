@@ -1,1 +1,1 @@
-it is my new READMe
+this file is mandatory to project
